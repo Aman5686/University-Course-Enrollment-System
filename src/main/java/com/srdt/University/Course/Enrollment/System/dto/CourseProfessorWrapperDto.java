@@ -4,8 +4,4 @@ public class CourseProfessorWrapperDto {
 
     public CourseDTO courses;
     public ProfessorDTO professors;
-
-    public CourseDTO getCourses() {
-        return courses;
-    }
 }
